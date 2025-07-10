@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing bot_interface.egg-info/PKG-INFO
+writing dependency_links to bot_interface.egg-info/dependency_links.txt
+writing entry points to bot_interface.egg-info/entry_points.txt
+writing requirements to bot_interface.egg-info/requires.txt
+writing top-level names to bot_interface.egg-info/top_level.txt
+reading manifest file 'bot_interface.egg-info/SOURCES.txt'
+writing manifest file 'bot_interface.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages/bot-interface.egg-link (link to .)
+Installing bot_node script to /home/ronish/bot_ws/install/bot_interface/lib/bot_interface
+
+Installed /home/ronish/bot_ws/build/bot_interface
+running symlink_data
+symbolically linking /home/ronish/bot_ws/build/bot_interface/resource/bot_interface -> /home/ronish/bot_ws/install/bot_interface/share/ament_index/resource_index/packages
+symbolically linking /home/ronish/bot_ws/build/bot_interface/package.xml -> /home/ronish/bot_ws/install/bot_interface/share/bot_interface

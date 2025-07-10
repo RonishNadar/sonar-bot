@@ -1,0 +1,35 @@
+[0.351s] Invoking command in '/home/ronish/bot_ws/build/bot_interface': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/ronish/bot_ws/build/bot_interface/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/ronish/bot_ws/build/bot_interface/build
+[0.498s] running develop
+[0.595s] Removing /home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages/bot-interface.egg-link (link to .)
+[0.608s] Invoked command in '/home/ronish/bot_ws/build/bot_interface' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/ronish/bot_ws/build/bot_interface/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/ronish/bot_ws/build/bot_interface/build
+[0.608s] Invoking command in '/home/ronish/bot_ws/src/bot_interface': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/ronish/bot_ws/build/bot_interface/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bot_interface build --build-base /home/ronish/bot_ws/build/bot_interface/build install --record /home/ronish/bot_ws/build/bot_interface/install.log --single-version-externally-managed install_data --force
+[0.743s] running egg_info
+[0.743s] writing ../../build/bot_interface/bot_interface.egg-info/PKG-INFO
+[0.744s] writing dependency_links to ../../build/bot_interface/bot_interface.egg-info/dependency_links.txt
+[0.744s] writing entry points to ../../build/bot_interface/bot_interface.egg-info/entry_points.txt
+[0.744s] writing requirements to ../../build/bot_interface/bot_interface.egg-info/requires.txt
+[0.744s] writing top-level names to ../../build/bot_interface/bot_interface.egg-info/top_level.txt
+[0.744s] reading manifest file '../../build/bot_interface/bot_interface.egg-info/SOURCES.txt'
+[0.745s] writing manifest file '../../build/bot_interface/bot_interface.egg-info/SOURCES.txt'
+[0.745s] running build
+[0.745s] running build_py
+[0.745s] copying bot_interface/bot_node.py -> /home/ronish/bot_ws/build/bot_interface/build/lib/bot_interface
+[0.745s] copying bot_interface/lidar_visualizer.py -> /home/ronish/bot_ws/build/bot_interface/build/lib/bot_interface
+[0.745s] running install
+[0.745s] running install_lib
+[0.746s] creating /home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages/bot_interface
+[0.746s] copying /home/ronish/bot_ws/build/bot_interface/build/lib/bot_interface/bot_node.py -> /home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages/bot_interface
+[0.746s] copying /home/ronish/bot_ws/build/bot_interface/build/lib/bot_interface/lidar_visualizer.py -> /home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages/bot_interface
+[0.746s] copying /home/ronish/bot_ws/build/bot_interface/build/lib/bot_interface/__init__.py -> /home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages/bot_interface
+[0.746s] byte-compiling /home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages/bot_interface/bot_node.py to bot_node.cpython-310.pyc
+[0.746s] byte-compiling /home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages/bot_interface/lidar_visualizer.py to lidar_visualizer.cpython-310.pyc
+[0.747s] byte-compiling /home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages/bot_interface/__init__.py to __init__.cpython-310.pyc
+[0.747s] running install_data
+[0.747s] copying resource/bot_interface -> /home/ronish/bot_ws/install/bot_interface/share/ament_index/resource_index/packages
+[0.747s] copying package.xml -> /home/ronish/bot_ws/install/bot_interface/share/bot_interface
+[0.747s] running install_egg_info
+[0.748s] Copying ../../build/bot_interface/bot_interface.egg-info to /home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages/bot_interface-0.1.0-py3.10.egg-info
+[0.748s] running install_scripts
+[0.759s] Installing bot_node = bot_interface.bot_node:mainlidar_visualizer script to /home/ronish/bot_ws/install/bot_interface/lib/bot_interface
+[0.759s] writing list of installed files to '/home/ronish/bot_ws/build/bot_interface/install.log'
+[0.770s] Invoked command in '/home/ronish/bot_ws/src/bot_interface' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/ronish/bot_ws/build/bot_interface/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bot_interface build --build-base /home/ronish/bot_ws/build/bot_interface/build install --record /home/ronish/bot_ws/build/bot_interface/install.log --single-version-externally-managed install_data --force

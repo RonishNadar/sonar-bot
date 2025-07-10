@@ -1,0 +1,4 @@
+[console_scripts]
+bot_node = bot_interface.bot_node:main
+lidar_visualizer = bot_interface.lidar_visualizer:main
+

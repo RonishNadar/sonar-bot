@@ -1,0 +1,17 @@
+[0.357s] Invoking command in '/home/ronish/bot_ws/build/bot_interface': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/ronish/bot_ws/build/bot_interface/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ronish/bot_ws/build/bot_interface/build --no-deps symlink_data
+[0.508s] running develop
+[0.602s] running egg_info
+[0.602s] writing bot_interface.egg-info/PKG-INFO
+[0.602s] writing dependency_links to bot_interface.egg-info/dependency_links.txt
+[0.602s] writing entry points to bot_interface.egg-info/entry_points.txt
+[0.602s] writing requirements to bot_interface.egg-info/requires.txt
+[0.602s] writing top-level names to bot_interface.egg-info/top_level.txt
+[0.603s] reading manifest file 'bot_interface.egg-info/SOURCES.txt'
+[0.603s] writing manifest file 'bot_interface.egg-info/SOURCES.txt'
+[0.604s] running build_ext
+[0.604s] Creating /home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages/bot-interface.egg-link (link to .)
+[0.604s] Installing bot_node script to /home/ronish/bot_ws/install/bot_interface/lib/bot_interface
+[0.604s] 
+[0.604s] Installed /home/ronish/bot_ws/build/bot_interface
+[0.604s] running symlink_data
+[0.617s] Invoked command in '/home/ronish/bot_ws/build/bot_interface' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/ronish/bot_ws/build/bot_interface/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ronish/bot_ws/build/bot_interface/build --no-deps symlink_data

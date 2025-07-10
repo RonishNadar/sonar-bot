@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/bot_interface/bot_interface.egg-info
+writing ../../build/bot_interface/bot_interface.egg-info/PKG-INFO
+writing dependency_links to ../../build/bot_interface/bot_interface.egg-info/dependency_links.txt
+writing entry points to ../../build/bot_interface/bot_interface.egg-info/entry_points.txt
+writing requirements to ../../build/bot_interface/bot_interface.egg-info/requires.txt
+writing top-level names to ../../build/bot_interface/bot_interface.egg-info/top_level.txt
+writing manifest file '../../build/bot_interface/bot_interface.egg-info/SOURCES.txt'
+reading manifest file '../../build/bot_interface/bot_interface.egg-info/SOURCES.txt'
+writing manifest file '../../build/bot_interface/bot_interface.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ronish/bot_ws/build/bot_interface/build
+creating /home/ronish/bot_ws/build/bot_interface/build/lib
+creating /home/ronish/bot_ws/build/bot_interface/build/lib/bot_interface
+copying bot_interface/bot_node.py -> /home/ronish/bot_ws/build/bot_interface/build/lib/bot_interface
+copying bot_interface/__init__.py -> /home/ronish/bot_ws/build/bot_interface/build/lib/bot_interface
+running install
+running install_lib
+creating /home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages/bot_interface
+copying /home/ronish/bot_ws/build/bot_interface/build/lib/bot_interface/bot_node.py -> /home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages/bot_interface
+copying /home/ronish/bot_ws/build/bot_interface/build/lib/bot_interface/__init__.py -> /home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages/bot_interface
+byte-compiling /home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages/bot_interface/bot_node.py to bot_node.cpython-310.pyc
+byte-compiling /home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages/bot_interface/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/ronish/bot_ws/install/bot_interface/share/ament_index
+creating /home/ronish/bot_ws/install/bot_interface/share/ament_index/resource_index
+creating /home/ronish/bot_ws/install/bot_interface/share/ament_index/resource_index/packages
+copying resource/bot_interface -> /home/ronish/bot_ws/install/bot_interface/share/ament_index/resource_index/packages
+copying package.xml -> /home/ronish/bot_ws/install/bot_interface/share/bot_interface
+running install_egg_info
+Copying ../../build/bot_interface/bot_interface.egg-info to /home/ronish/bot_ws/install/bot_interface/lib/python3.10/site-packages/bot_interface-0.1.0-py3.10.egg-info
+running install_scripts
+Installing bot_node script to /home/ronish/bot_ws/install/bot_interface/lib/bot_interface
+writing list of installed files to '/home/ronish/bot_ws/build/bot_interface/install.log'
